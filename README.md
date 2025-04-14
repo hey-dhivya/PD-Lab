@@ -12,6 +12,7 @@ This is a Flask-based mock interview system that helps users practice interview 
 ### **📊 Performance reporting and PDF report download**
 
 ## **📁 Project Structure**
+### **
 mock-interview-system/
 │
 ├── app.py                  
@@ -22,3 +23,4 @@ mock-interview-system/
 │
 ├── requirements.txt       
 ├── README.md               
+**
