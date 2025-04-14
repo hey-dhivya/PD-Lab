@@ -12,6 +12,11 @@ This is a Flask-based mock interview system that helps users practice interview 
 ### 📊 Performance reporting and PDF report download
 
 
+# ** OUTPUTS **
+![Screenshot 2025-04-14 213020](https://github.com/user-attachments/assets/832fe67e-90c6-451d-96d4-05893ed15efc)
+![Screenshot 2025-04-14 213050](https://github.com/user-attachments/assets/507a91d4-765f-4f1d-8044-0a52efeb43f4)
+![Screenshot 2025-04-14 213147](https://github.com/user-attachments/assets/62b6fb6e-d052-47e6-8bec-0e56c0fd20e9)
+![Screenshot 2025-04-14 213155](https://github.com/user-attachments/assets/2bf7075c-dccb-4742-b81d-d73d5e26bc98)
 
 
 
