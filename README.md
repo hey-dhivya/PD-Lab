@@ -4,11 +4,17 @@ This is a Flask-based mock interview system that helps users practice interview 
 
 ## **✨ Features**
 🔐 Login system with session management
+
 📄 Resume upload and text extraction from PDF/DOCX files
+
 🧠 Skill, project, certification, and experience detection from resumes
+
 🎙️ Audio recording and confidence scoring for interview questions
+
 💬 Emotion recognition pipeline 
+
 🎛️ Randomized question fetching from PostgreSQL database
+
 📊 Performance reporting and PDF report download
 
 
