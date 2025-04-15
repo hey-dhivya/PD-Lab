@@ -21,6 +21,22 @@ This is a Flask-based mock interview system that helps users practice interview 
 
 <pre> ## 📁 Project Structure mock-interview-system/ │ ├── app.py # Main Flask application ├── requirements.txt # Project dependencies ├── README.md # Project documentation │ ├── templates/ # HTML templates for UI │ ├── login.html │ ├── upload_resume.html │ ├── index.html │ └── report.html │ ├── static/ # Static assets like uploads & recordings │ ├── uploads/ # Uploaded resumes (PDF/DOCX) │ └── recordings/ # User audio responses </pre>
 
+## 🚀 Technologies Used
+
+| Technology     | Purpose                                                                 |
+|----------------|-------------------------------------------------------------------------|
+| Flask          | Web framework to build backend and serve frontend                       |
+| PostgreSQL     | Relational database to store interview questions                        |
+| Transformers   | NLP models for speech recognition and emotion detection                 |
+|               | - `openai/whisper-tiny.en`: ASR (Automatic Speech Recognition)           |
+|               | - `j-hartmann/emotion-english-distilroberta-base`: Emotion classification|
+| Pytesseract    | OCR engine for image-based text extraction (optional)                   |
+| PyPDF2         | Extract text from PDF resumes                                           |
+| python-docx    | Extract text from DOCX resumes                                          |
+| FPDF           | Generate downloadable PDF interview reports                             |
+| HTML/CSS/JS    | Frontend for UI, recording, and interactions                            |
+
+
 
 # **OUTPUTS**
 ![Screenshot 2025-04-14 213020](https://github.com/user-attachments/assets/832fe67e-90c6-451d-96d4-05893ed15efc)
