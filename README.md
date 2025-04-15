@@ -17,6 +17,8 @@ This is a Flask-based mock interview system that helps users practice interview 
 
 📊 Performance reporting and PDF report download
 
+## **📁 Project Structure**
+<pre> mock-interview-system/ │ ├── app.py # Main Flask app ├── templates/ # HTML templates for rendering pages │ ├── login.html │ ├── index.html │ ├── upload_resume.html │ └── report.html │ ├── static/ # Static files │ ├── uploads/ # Uploaded resume files │ └── recordings/ # Audio recordings │ ├── requirements.txt # Python dependencies ├── README.md # Project documentation └── database_setup.sql # (Optional) SQL script for DB table setup </pre>
 
 # **OUTPUTS**
 ![Screenshot 2025-04-14 213020](https://github.com/user-attachments/assets/832fe67e-90c6-451d-96d4-05893ed15efc)
